@@ -1,0 +1,13 @@
+cpty_type,direction,margin_type,Level_1_asset,Level_2_asset,Level_3_asset
+Domesitc Banks,Collateral Pledged,Initial Margin,0,0,0
+Domesitc Banks,Collateral Pledged,Variation Margin,685503,0,0
+Domesitc Banks,Collateral Received,Initial Margin,0,0,0
+Domesitc Banks,Collateral Received,Variation Margin,1467000,423465.74,146451.24
+Foreign Cpty,Collateral Pledged,Initial Margin,0,0,0
+Foreign Cpty,Collateral Pledged,Variation Margin,2233383,1798963.2699999998,2671443.1599999997
+Foreign Cpty,Collateral Received,Initial Margin,772344,0,760904.2
+Foreign Cpty,Collateral Received,Variation Margin,1841247,348119.43,1935487.81
+Other Domestic,Collateral Pledged,Initial Margin,0,0,0
+Other Domestic,Collateral Pledged,Variation Margin,870084,1028416.79,967939.38
+Other Domestic,Collateral Received,Initial Margin,0,0,186589.7
+Other Domestic,Collateral Received,Variation Margin,2919119,362970.63,933774.2999999999
